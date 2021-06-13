@@ -14,7 +14,7 @@ Petunjuk Penggunaan aplikasi web CDMAArena
    postgreSQL disimpan dengan command berikut
    cd C:\Program Files\PostgreSQL\13\bin
    setelah itu, memasuki command untuk melakukan import database sebagai berikut
-   psql -U username -d cdmaarena < ...\CDMAArena\cdmaarenadatabase.sql
+   psql -U username -d cdmaarena < ...\cdmaarenadatabase.sql
 
 6. Setelah itu, memasuki direktori penyimpanan dari folder CDMAArena dengan command prompt
    cd ...\CDMAArena
